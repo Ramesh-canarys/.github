@@ -1,6 +1,6 @@
 {
     "name": "Playground Template",
-    "description": "Ramesh Playground CI workflow template.",
+    "description": "Ramesh CI workflow template.",
     "iconName": "example-icon",
     "categories": [
         "Go"

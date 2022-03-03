@@ -1,4 +1,4 @@
-name: Ramesh Playground Org CI
+name: Ramesh Org CI
 
 on:
   push:
